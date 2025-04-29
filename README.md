@@ -3,8 +3,9 @@
 ## About me 
 
 ![](https://github-readme-stats.vercel.app/api?username=tuan2k33&show_icons=true&theme=radical)
-- I'm Nguyễn Quốc Tuấn, a student who loves coding and exploring new techs.
-- I'm studying Computer Science at Ho Chi Minh University of Technology, **VNU-HCM** (2021 - now).
+- I'm Vo Minh Thien, a student who loves coding and exploring new techs.
+- I'm graduated Information Systems Security at Southern Alerta Instituition Technology (Diploma), **Calgary** (2022 - 2025 )
+-  I'm studying Cyber Security  at Southern Alerta Instituition Technology (Bachelor), **Calgary** (2025 - 2026 ).
 
 ## Skills & Techs
 
