@@ -28,4 +28,4 @@
 - Student email: [minh.vo@edu.sait.ca](mailto:minh.vo@edu.sait.ca)
 - Personal email: [minhthienvo2610@gmail.com](mailto:minhthienvo2610@gmail.com) 
 - LinkedIn: [Minh Thien Vo](https://www.linkedin.com/in/minh-thien-vo-a8944b204/)
-- Phone: +84 966228451
+- Phone: +84 967277284
