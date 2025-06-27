@@ -9,12 +9,13 @@
 
 ## Skills & Techs
 
-- Office Informatics: Word, Excel, PowerPoint
-- Languages: Vietnamese, English (B2), French
-- Coding: C, Python, C++
-- Databases: MySQL, SSMS
-- Web Dev: PHP, HTML, CSS, JavaScript
-- Misc.: Academic research, LATEX
+●	Computing: MS Office Suite (Word, Excel – including PivotTables & VLOOKUP, PowerPoint), MS Visio (network diagrams), MS Project & MS Planner (task and project management), System Administration (MMC, Active Directory), Remote Desktop Management, Basic Cloud Tools (Google Workspace, Microsoft 365).
+●	Programming: Python (automation scripts). C, Assembly X86, HTML/ CSS, JavaScript, SQL.
+●	Operating Systems: Windows 10/11/Server, Linux (Ubuntu, Kali, CentOS, Parrot), macOS, Bash & PowerShell, VMware, VirtualBox, OS Hardening, SSH Administration, Log Analysis.
+●	Networking: Wireshark, Cisco Packet Tracer, TCP/IP Protocol Suite, Subnetting, NAT, DHCP, DNS, VLAN Configuration, Port Scanning with Nmap, VPN Setup (OpenVPN, IPSec), Network Monitoring, Firewall Configuration (iptables, Windows Firewall), Network Protocol Analysis, ARP Spoofing & Mitigation.
+●	Compliance and encryption: ISO/IEC 27001, NIST CSF, CIS Controls, GDPR principles, Access Control Policies, Risk Management Concepts, AES, RSA, SHA-2, MD5, Public Key Infrastructure (PKI), SSL/TLS, Disk Encryption (BitLocker, VeraCrypt),
+●	Incident Response and Vulnerability Management: Incident Response Lifecycle (NIST 800-61), SIEM Triage (QRadar, Splunk), Digital Forensics (FTK Imager, Autopsy, Volatility), CVE-based Vulnerability Scanning, Patch Management, Exploit Research, and Phishing Investigation. Security Tools (Sysinternals, CrowdStrike, VirusTotal, Shodan, Hybrid Analysis).
+
 
 
 + Exploring: Java, RESTful API, React, LLM
