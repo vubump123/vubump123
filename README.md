@@ -3,9 +3,9 @@
 ## About me 
 
 ![](https://github-readme-stats.vercel.app/api?username=vubump123&show_icons=true&theme=radical)
-- I'm Vo Minh Thien, a student who loves coding and exploring new techs.
+- I'm Vo Minh Thien, a student who loves Cyber Path and exploring new techs.
 - I'm graduated Information Systems Security at Southern Alerta Instituition Technology (Diploma), **Calgary** (2022 - 2025 )
--  I'm studying Cyber Security  at Southern Alerta Instituition Technology (Bachelor), **Calgary** (2025 - 2026 ).
+- I'm studying Cyber Security  at Southern Alerta Instituition Technology (Bachelor), **Calgary** (2025 - 2026 ).
 
 ## Skills & Techs
 
@@ -23,7 +23,7 @@
 
 
 
-+ Exploring: Java, RESTful API, React, LLM
+
 
 ## Projects
 
